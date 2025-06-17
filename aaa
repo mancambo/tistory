@@ -10,3 +10,6 @@ pip install selenium python-dotenv openai
 chrome://version/
 
 https://googlechromelabs.github.io/chrome-for-testing/
+
+
+python daily_prompt_blog.py
